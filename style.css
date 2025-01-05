@@ -1,0 +1,74 @@
+body{
+    background-image: linear-gradient(to right,  #03c393, #2272FF); 
+}
+.todo{
+    justify-content: center;
+    margin: 130px;
+    max-width: 800px;
+    align-items: center;
+    height: 400px;
+    background-color: lightblue;
+    border-radius: 20px;
+}
+.text1{
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 10px;
+}
+.b1{
+    background-image: linear-gradient(to right,  #03c393, #2272FF); 
+    border-radius: 20px;
+    height: 60px;
+    width: 150px;
+}
+input{
+    height: 60px;
+}
+.nn{
+    margin-left: 80px;
+
+}
+.ajout{
+    display: flex;
+    gap: 5px;
+    margin-left: 60px;
+}
+.Ajouter{
+    height:30px;
+    width: 100%;
+    margin-top: 10px;
+    margin-left: 80px;
+    
+
+}
+.bbt1{
+    color: white;
+    background-color: red;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    margin-left: 00px;
+}
+.bbt2{
+    color: white;
+    margin-bottom: 10px;
+    background-color: blue;
+    border-radius: 10px;
+    margin-left: px;
+
+
+}
+
+.google{
+    background-color: rgb(240, 248, 255);
+    margin-bottom: 10px;
+    width: 60%;
+    height: 40px;
+    text-align: center;
+    border-radius: 10px;
+    gap: px;
+}
+.sall{
+    display: flex;
+}
